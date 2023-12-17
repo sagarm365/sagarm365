@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/patelsagar1994" target="blank"><img src="https://img.shields.io/twitter/follow/patelsagar1994?logo=twitter&style=for-the-badge" alt="patelsagar1994" /></a> </p>
 
-- 🌱 I’m currently learning **KQL, Azure Security**
+- 🌱 I’m currently learning **KQL, Microsoft 365 Security**
 
-- 💬 Ask me about **Microsoft Defender, Microsoft Security**
+- 💬 Ask me about **Microsoft Defender, Microsoft Purview**
 
 - 📫 How to reach me **sagar1994.patel@gmail.com**
 
